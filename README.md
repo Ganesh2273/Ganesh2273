@@ -1,20 +1,15 @@
-- 👋 Hi, I’m @Ganesh2273
-- 👀 I’m interested in App Development.
-- 📚 I'm currently learning Kotlin.👨‍💻
-- 💡🔧 I am eager to dive into projects. 
-- 🤝 I’m looking to collaborate on web Development Perojects🌐 and App Development Projects.📱
-- 🤝🌐 I am seeking connections and opportunities. 
-- 👥In my final year, I'm focused on making a meaningful impact with solutions that simplify life.
-- ✨ I am committed to continuous learning and growth. ✨
-- 📧 Contact me at yewaleganesh720@gmail.com
-  
+<!---
+Ganesh2273/Ganesh2273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 <h1 align="center">Hi 👋, I'm Ganesh Yewale</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh2273&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh2273" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh2273" alt="ganesh2273" /></a> </p>
 
 - 🔭 I’m currently working on **App Development**
+
+- 👥In my final year, **I'm focused on making a meaningful impact with solutions that simplify life.**
 
 - 👯 I’m looking to collaborate on **web Development🌐 and App Development📱Projects.**
 
@@ -41,8 +36,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh2273&" alt="ganesh2273" /></p>
 
-
-<!---
-Ganesh2273/Ganesh2273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
