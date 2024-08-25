@@ -1,5 +1,5 @@
 <!---
-Ganesh2273/Ganesh2273 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+Ganesh2273/Ganesh2273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -7,24 +7,24 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh2273&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh2273" /> </p>
 
 
-- 🔭 I’m currently working on *App Development*
+- 🔭 I’m currently working on **App Development**
 
-- 👥In my final year, *I'm focused on making a meaningful impact with solutions that simplify life.*
+- 👥In my final year, **I'm focused on making a meaningful impact with solutions that simplify life.**
 
-- 👯 I’m looking to collaborate on *web Development🌐 and App Development📱Projects.*
+- 👯 I’m looking to collaborate on **web Development🌐 and App Development📱Projects.**
 
-- 🤝🌐 I am looking to *build connections and explore opportunities.*
+- 🤝🌐 I am looking to **build connections and explore opportunities.**
 
-- 📚 I'm currently learning *Kotlin.👨‍💻*
+- 📚 I'm currently learning **Kotlin.👨‍💻**
 
-- 📧 Contact me at *yewaleganesh720@gmail.com*
+- 📧 Contact me at **yewaleganesh720@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ganesh220703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganesh220703" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ganesh yewale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh yewale" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ganesh yewale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ganesh yewale" height="30" width="40" /></a>
-<a href="https://instagram.com/ganesh_227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_227" height="30" width="40" /></a>
+<a href="https://instagram.com/ganesh__227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh__227" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ganeshyewale22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ganeshyewale22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ganeshyewale2273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ganeshyewale2273" height="30" width="40" /></a>
 </p>
