@@ -7,15 +7,15 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh2273&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh2273" /> </p>
 
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **Data Analytics**
 
 - 👥In my final year, **I'm focused on making a meaningful impact with solutions that simplify life.**
 
-- 👯 I’m looking to collaborate on **web Development🌐 and App Development📱Projects.**
+- 👯 I’m looking to collaborate on **Advance Data Analytics and Data Analytics Projects.**
 
 - 🤝🌐 I am looking to **build connections and explore opportunities.**
 
-- 📚 I'm currently learning **Kotlin.👨‍💻**
+- 📚 I'm currently learning **Advance Data Analytics.**
 
 - 📧 Contact me at **yewaleganesh720@gmail.com**
 
