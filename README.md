@@ -3,7 +3,7 @@ Ganesh2273/Ganesh2273 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Ganesh Dattatraya yewale</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Yewale</h1>
 <h3 align="center">An aspiring Data Analytics and Data enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh2273&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh2273" /> </p>
